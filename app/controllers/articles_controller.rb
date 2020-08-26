@@ -8,6 +8,10 @@ class ArticlesController < ApplicationController
   end
 
   def new
+    @article = Article.new
+  end
 
+  def create
+    fail
   end
 end
