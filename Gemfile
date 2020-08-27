@@ -39,12 +39,12 @@ group :development do
 end
 
 group :development, :test do
-  gem 'sqlite3', '1.4.2'
+  gem 'sqlite3'
   gem 'byebug',  '11.1.3', platforms: [:mri, :mingw, :x64_mingw]
 end
 
 group :production do
-  gem 'pg',         '1.2.3'
+  gem 'pg'
 end
 
 group :test do

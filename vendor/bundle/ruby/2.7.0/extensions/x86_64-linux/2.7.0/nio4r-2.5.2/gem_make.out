@@ -1,5 +1,5 @@
 current directory: /home/morris/Documents/RAILS/blogger/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.2/ext/nio4r
-/home/morris/.rbenv/versions/2.7.1/bin/ruby -I /home/morris/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20200827-29779-1owab3s.rb extconf.rb
+/home/morris/.rbenv/versions/2.7.1/bin/ruby -I /home/morris/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20200827-10733-1blvybu.rb extconf.rb
 checking for unistd.h... yes
 checking for linux/aio_abi.h... yes
 checking for sys/select.h... yes
@@ -98,4 +98,4 @@ linking shared-object nio4r_ext.so
 
 current directory: /home/morris/Documents/RAILS/blogger/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.2/ext/nio4r
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 nio4r_ext.so ./.gem.20200827-29779-2k8q2j
+/usr/bin/install -c -m 0755 nio4r_ext.so ./.gem.20200827-10733-amavs1

@@ -1,5 +1,5 @@
 current directory: /home/morris/Documents/RAILS/blogger/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.8/ext/bootsnap
-/home/morris/.rbenv/versions/2.7.1/bin/ruby -I /home/morris/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20200827-29779-lk2o17.rb extconf.rb
+/home/morris/.rbenv/versions/2.7.1/bin/ruby -I /home/morris/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20200827-10733-cctmxg.rb extconf.rb
 creating Makefile
 
 current directory: /home/morris/Documents/RAILS/blogger/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.8/ext/bootsnap
@@ -23,4 +23,4 @@ linking shared-object bootsnap/bootsnap.so
 
 current directory: /home/morris/Documents/RAILS/blogger/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.8/ext/bootsnap
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20200827-29779-1cz8wwm/bootsnap
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20200827-10733-108go63/bootsnap
