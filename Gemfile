@@ -38,8 +38,6 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
 end
 
-<<<<<<< HEAD
-=======
 group :development, :test do
   gem 'sqlite3'
   gem 'byebug',  '11.1.3', platforms: [:mri, :mingw, :x64_mingw]
@@ -49,7 +47,6 @@ group :production do
   gem 'pg'
 end
 
->>>>>>> 79b24d2339d84a0b0ebe102bdc383cf2015d55f9
 group :test do
   # Adds support for Capybara system testing and selenium driver
   gem 'capybara', '>= 2.15'

@@ -23,10 +23,4 @@ test:
 
 production:
   <<: *default
-<<<<<<< HEAD
-  database: blogger_production
-  username: blogger
-  password: <%= ENV['BLOGGER_DATABASE_PASSWORD'] %>
-=======
   database: db/production.sqlite3
->>>>>>> 79b24d2339d84a0b0ebe102bdc383cf2015d55f9
